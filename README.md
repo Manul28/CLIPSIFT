@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/da2e68d0-3b43-4742-8763-019e17dac313)
+![image](https://github.com/user-attachments/assets/1ee73388-7a11-44c5-b7c9-766522430a68)
+
 
 
 # CLIPGIST
