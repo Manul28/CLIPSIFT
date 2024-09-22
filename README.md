@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/da2e68d0-3b43-4742-8763-019e17dac313)
+
+
 # CLIPSIFT
 
 ClipSift is a Python tool that leverages LangChain and Google PaLM to automatically generate concise summaries of YouTube videos. With advanced natural language processing techniques, ClipSift extracts meaningful information from video transcripts, offering users quick insights without the need to watch the entire video.
