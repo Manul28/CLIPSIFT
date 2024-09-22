@@ -7,7 +7,7 @@
 ClipGist is a Python tool that leverages LangChain and Google PaLM to automatically generate concise summaries of YouTube videos. With advanced natural language processing techniques, ClipGist extracts meaningful information from video transcripts, offering users quick insights without the need to watch the entire video.
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20CLIPSIFT-blue)](https://yt-video-summarizer-ai.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20CLIPGIST-blue)](https://yt-video-summarizer-ai.streamlit.app/)
 
 
 # Features
